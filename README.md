@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: wk382@drexel.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've made over 10,000 baguettes.
+- One repository I found interesting is [this William Blake analysis](https://github.com/catb0y/Songs-of-entities)
 -->
